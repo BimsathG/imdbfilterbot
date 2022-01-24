@@ -17,7 +17,7 @@
 
 ## Features
 
-- [x] Auto Filter
+- [x] Filter
 - [x] Manual Filter
 - [x] IMDB
 - [x] Admin Commands
@@ -89,7 +89,7 @@ python3 bot.py
 * /disconnect - disconnect from PM
 * /del - delete a filter
 * /delall - delete all filters
-* /deleteall - delete all index(autofilter)
+* /deleteall - delete all index
 * /delete - delete a specific file from index.
 * /info - get user info
 * /id - get tg ids.
